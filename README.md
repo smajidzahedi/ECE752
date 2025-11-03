@@ -1,2 +1,2 @@
-# ECE750
+# ECE752
 Foundations of Multi-agent Systems
